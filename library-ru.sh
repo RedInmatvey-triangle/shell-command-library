@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Copyright 2025 by Matvey Redin 
+# <redinmatvey11@gmail.com>
+
 COMMANDS_F|ILE="commands.txt"
 
 show_menu() {
