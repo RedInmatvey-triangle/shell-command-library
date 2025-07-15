@@ -20,11 +20,11 @@ The library includes:
    ```
 3. **Search for commands**:  
    ```bash
-   ./commands-ru.sh [keyword]
+   ./library-ru.sh [keyword]
    ```
    Or:
    ```bash
-   ./commands-en.sh
+   ./library-en.sh
    ```
 
 ## Supported Languages  
