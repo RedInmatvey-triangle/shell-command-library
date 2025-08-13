@@ -9,7 +9,7 @@ COMMANDS_FILE="commands.txt"
 show_menu() {
 clear
 cat <<'EOF'
-  ~ Shell commamds Library ~
+  ~ Shell commands Library ~
    Библиотека команд для дистрибутивов GNU/Linux, в которых используется оболочка BASh shell.
    Исходный код: https://github.com/RedInmatvey-triangle/shell-command-library
 ==============================
