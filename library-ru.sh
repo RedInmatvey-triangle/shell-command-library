@@ -4,7 +4,7 @@
 # <redinmatvey11@gmail.com>
 # GNU GPLv3 License
 
-COMMANDS_FILE="commands.txt"
+COMMANDS_FILE="commands-ru.txt"
 
 show_menu() {
 clear
